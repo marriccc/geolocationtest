@@ -1,0 +1,2 @@
+# geolocationtest
+Geolocation rules test
